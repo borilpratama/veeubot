@@ -8,11 +8,11 @@ $pink="\033[1;35m";
 $red="\033[1;31m";
 $kuning="\033[1;33m";
 //flag
-print"$ijo
+print"$red
 ======================================================\n__     _______ _____ _   _
-\ \   / / ____| ____| | | | create by: adidoank
+\ \   / / ____| ____| | | | create by: Boril Pratama
  \ \ / /|  _| |  _| | | | |
-  \ V / | |___| |___| |_| | masukan kode invite: A5EX50
+  \ V / | |___| |___| |_| | masukan kode invite: E7T2GK
    \_/  |_____|_____|\___/\n ======================================================\n$putih";
 $t= "\r\n";
 //config
@@ -59,18 +59,18 @@ sleep(1);
 echo $ijo."ikuti intuksi di bawah bagaimana cara mendapatkan bot".$t;
 sleep(3);
 echo "
-[1] kamu perlu memasukan kode invite: A5EX50".$putih."
+[1] kamu perlu memasukan kode invite: E7T2GK".$putih."
   => buat lah 1 akun baru dengan memasukan kode di atas".$t;
 sleep(2);
 echo $ijo."
 [2] kirim nama user kamu ke alamat email atau WA di bawah".$t.$putih."
-  => adidoank69ads@gmail.com
-  => 082134676940".$t;
+  => borilpratama675@gmail.com
+  => 082298127479".$t;
 sleep(2);
 echo $ijo."
 [3] bot akan di kirim setelah proses pengecekan user".$putih."
   => bot sepenuhnya milik anda".$t;
 
   
-echo $turkis."TERIMAKASIH".$t."salam gretongers".$t;
+echo $turkis."TERIMAKASIH".$t."salam gratisan".$t;
 
